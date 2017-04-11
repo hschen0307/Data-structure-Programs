@@ -6,8 +6,8 @@ CS163 Data structure @ PSU
 
 Taken spring 2015
 
-HW1: Link list
-HW2: Stack and Queue
-HW3: Tree
-HW4: 
+HW1: Link list \n
+HW2: Stack and Queue \n
+HW3: Tree \n
+HW4: Hash table \n
 HW5: Graph
